@@ -1,26 +1,26 @@
 frutas:
-aguacate
-cereza
-ciruela
-coco
-frambuesa
-fresa
-limon
-mango
-manzana
-naranja
+1.- aguacate
+2.- cereza
+3.- ciruela
+4.- coco
+5.- frambuesa
+6.- fresa
+7.- limon
+8.- mango
+9.- manzana
+10.- naranja
 
 verduras:
-calabaza
-cebolla
-lechuga
-col
-espinacas
-alcachofa
-zanahoria
-rabanos
-habas
-pepino
+1.- calabaza
+2.- cebolla
+3.- lechuga
+4.- col
+5.- espinacas
+6.- alcachofa
+7.- zanahoria
+8.- rabanos
+9.- habas
+10.- pepino
 
 
 
